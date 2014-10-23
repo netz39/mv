@@ -1,0 +1,10 @@
+appendix.tex
+*.toc
+*.aux
+*.lo*
+*.bbl
+*.bcf
+*.blg
+*.out
+*.run.xml
+
