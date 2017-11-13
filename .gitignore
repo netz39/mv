@@ -1,8 +1,9 @@
 ## Core latex/pdflatex auxiliary files:
 *.aux
-*.lof
-*.log
-*.lot
+*.bbl
+*.bcf
+*.blg
+*.lo*
 *.fls
 *.out
 *.toc
@@ -18,3 +19,7 @@
 # these rules might exclude image files for figures etc.
 # *.ps
 # *.eps
+
+## other
+*.run.xml
+mv.pdf
